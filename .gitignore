@@ -120,3 +120,4 @@ venv.bak/
 nohup.out
 packages
 pkgs
+/.pypirc
